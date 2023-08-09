@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "images/portfolio/a4-paper.jpg"
 date = "2023-11-05T18:25:22+05:30"
-title = "Name of the work 1"
+title = "bdna Group"
 weight = 0
 +++
 
